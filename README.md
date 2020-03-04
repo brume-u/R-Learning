@@ -1,2 +1,2 @@
-# R-Learning
-Reinforcement and Q-Learning Agents and Problem Formulations yet to come
+# bleach-rubiks-cube
+A Rubik's Cube formulation I have been working on.
